@@ -54,7 +54,7 @@ public class TestEncrypt {
 
     public static void main(String[] args) {
 //        encodeApp();
-//        decodeApp();
+        //decodeApp();
         baomi();
     }
 
